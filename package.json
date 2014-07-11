@@ -1,0 +1,12 @@
+{
+  "name": "tilelive-solid",
+  "version": "0.0.0",
+  "description": "A tilelive provider that returns solid colored tiles.",
+  "main": "index.js",
+  "author": "Seth Fitzsimmons <seth@mojodna.net>",
+  "license": "ISC",
+  "dependencies": {
+    "mapnik": "^1.4.10",
+    "tiletype": "0.0.3"
+  }
+}

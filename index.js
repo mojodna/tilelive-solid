@@ -43,11 +43,7 @@ module.exports = function(tilelive, options) {
   Solid.prototype.getInfo = function(callback) {
     return setImmediate(function() {
       return callback(null, {
-        layers: this.layers,
-        offsets: this.offsets,
-        opacities: this.opacities,
-        operations: this.operations,
-        filters: this.filters,
+        color: this.color,
         format: this.format
       });
     }.bind(this));

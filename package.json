@@ -7,6 +7,6 @@
   "license": "ISC",
   "dependencies": {
     "mapnik": ">=1.4.9",
-    "tiletype": "0.0.3"
+    "tiletype": "^0.2.0"
   }
 }

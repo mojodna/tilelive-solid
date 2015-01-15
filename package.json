@@ -1,6 +1,6 @@
 {
   "name": "tilelive-solid",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A tilelive provider that returns solid colored tiles.",
   "main": "index.js",
   "author": "Seth Fitzsimmons <seth@mojodna.net>",

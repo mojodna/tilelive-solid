@@ -6,7 +6,9 @@
   "author": "Seth Fitzsimmons <seth@mojodna.net>",
   "license": "ISC",
   "dependencies": {
-    "mapnik": ">=1.4.9",
     "tiletype": "^0.2.0"
+  },
+  "peerDependencies": {
+    "mapnik": ">=1.4.9"
   }
 }
